@@ -1,0 +1,62 @@
+/* id inicio contem as informações especificas de fora da clsse box */
+#inicio {
+	background-image: url('https://github.com/LucasVz/LucasVz.github.io/blob/master/wood.jpg?raw=true');
+	text-align: center;
+	padding-top: 70px;
+}
+body {
+	font-family: sans-serif;
+}
+/* Aqui contem os comandos de toda a caixa branca do site */
+.box {
+	background-color: white;
+	box-sizing: border-box;
+	text-align: center;
+	padding: 70px;
+	width: 1000px;
+	margin: auto;
+}
+/* Comandos da foto */
+.img-foto {
+	border-radius: 60%;
+	width: 350px;
+	height: 350px;
+	display: block;
+	margin: auto;
+}
+/* Comandos dos icones dos contatos */
+.img-icone {
+	width: 200px;
+	height: 200px;
+	display: block;
+	margin: auto;
+}
+/* Comandos da imagem pino */
+.img-pino {
+	width: 50px;
+	height: 50px;
+	display: block;
+	margin: auto;
+}
+/* Comandos das imagens dos exemplos de hobbies */
+.img-exp {
+	width: 50px;
+	height: 50px;
+	display: block;
+	margin: auto;
+}
+/* Aqui temos a definição dos espaçamentos dos ids */
+#sobre {
+	padding-top: 70px;
+}
+#hobbies {
+	padding-top: 70px;
+	padding-bottom: 30px;
+}
+#contatos {
+	padding-top: 100px;
+}
+#rodape {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
