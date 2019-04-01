@@ -1,0 +1,44 @@
+#inicio {
+	background-image: url('http://4.bp.blogspot.com/-JZ_Gzmp4lJs/URlGhNdvZkI/AAAAAAAAAiA/0pYYFOWSm8o/s1600/wood.jpg');
+	text-align: center;
+}
+body {
+	font-family: sans-serif;
+}
+
+.box {
+	background-color: white;
+	box-sizing: border-box;
+	text-align: left;
+	padding: 70px;
+	width: 1000px;
+	margin: auto;
+}
+.img-foto {
+	border-radius: 60%;
+	width: 350px;
+	height: 350px;
+	display: block;
+	margin: auto;
+}
+.img-icone {
+	width: 200px;
+	height: 200px;
+	display: block;
+	margin: auto;
+}
+.img-pino {
+	width: 50px;
+	height: 50px;
+	display: block;
+	margin: auto;
+}
+.img-exp {
+	width: 50px;
+	height: 50px;
+	display: block;
+	margin: auto;
+}
+h4 {
+	text-align: left
+}
